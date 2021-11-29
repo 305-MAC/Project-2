@@ -1,4 +1,5 @@
-# Project-2
+# Project-2 - "SPECIALIZED ASSET MANAGEMENT (S.A.M.) LEAD-GENERATING BOT" By Miguel Correa, Richard Altema, and Jesus Saenz
+
 
 Presentation Guidelines
 You are free to structure your presentations to your liking, but students tend to have success with the following format.
