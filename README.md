@@ -1,4 +1,4 @@
-# Project-2 - "SPECIALIZED ASSET MANAGEMENT (S.A.M.) LEAD-GENERATING BOT" By Miguel Correa, Richard Altema, and Jesus Saenz
+# Project 2: "SPECIALIZED ASSET MANAGEMENT (S.A.M.) LEAD-GENERATING BOT" By Miguel Correa, Richard Altema, and Jesus Saenz
 
 
 Presentation Guidelines
